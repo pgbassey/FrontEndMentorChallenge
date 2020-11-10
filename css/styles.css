@@ -1,0 +1,151 @@
+
+body {
+ font-family:'Spartan', sans-serif;
+ text-align: center;
+ background-color:hsl(0, 0%, 100%);
+ display: block;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+h2 {
+  color: hsl(0, 0%, 100%);
+  font-weight: 700;
+}
+
+h3 {
+  color: hsl(333, 80%, 67%);
+  font-weight: 400;
+}
+
+.product-users {
+  color: hsl(300, 43%, 22%);
+  font-size: 3rem;
+  width: 70%;
+  text-align: left;
+}
+
+
+.attribution a {
+  color:hsl(228, 45%, 44%);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  position: relative;
+  display: none;
+}
+
+.introduction {
+  position: relative;
+  float: left;
+  margin-left: 140px;
+  width: 30%;
+  line-height: 1;
+
+}
+
+.intro-paragraph {
+  text-align: left;
+  font-size: 15px;
+  color: hsl(300, 24%, 96%);
+}
+
+.ratings {
+  color: hsl(300, 43%, 22%);
+  position: relative;
+  float: right;
+  width: 50%;
+  line-height: 2rem;
+  margin-top: 80px;
+  margin-bottom: 500px;
+  font-weight: 700;
+}
+
+.ratings-1 {
+  border: solid 1px white;
+  background-color: hsl(300, 24%, 96%);
+  border-radius: 4px;
+  margin-bottom: 30px;
+  padding: 10px;
+  width: 60%;
+  word-spacing: 0.4rem;
+}
+
+.ratings-2 {
+  border: solid 1px white;
+  background-color: hsl(300, 24%, 96%);
+  border-radius: 4px;
+  margin-bottom: 30px;
+  margin-left: 50px;
+  padding: 10px;
+  width: 60%;
+  word-spacing: 0.4rem;
+}
+
+.ratings-3 {
+  border: solid 1px white;
+  background-color: hsl(300, 24%, 96%);
+  border-radius: 4px;
+  margin-left: 100px;
+  padding: 10px;
+  width: 60%;
+  word-spacing: 0.4rem;
+}
+
+
+.sectionOne {
+  padding: 50px 0 200px;
+}
+
+.testimony {
+  padding: 300px 0 400px;
+  margin: 70px auto 0;
+}
+
+.first-testimony {
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 5px;
+  border: solid 1px;
+  color: white;
+  margin: 0 50px 0 80px;
+  width: 23%;
+  position: absolute;
+  display: block;
+}
+
+.second-testimony {
+  background-color: hsl(300, 43%, 22%);
+  border: solid 1px;
+  border-radius: 4px;
+  color: white;
+  display: block;
+  margin: 30px 0 0 550px;
+  width: 23%;
+  position: absolute;
+}
+
+.third-testimony {
+  margin: 60px 0 0 1025px;
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 4px;
+  border: solid 1px;
+  color: white;
+  width: 23%;
+  display: block;
+  position: absolute;
+}
+
+/* Mobile */
+
+@media screen (max.width 375px)
+
+
+
+
+/* Desktop */
+
+@Media screen (max.width 1440px)
